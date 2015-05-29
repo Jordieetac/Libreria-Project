@@ -4,13 +4,13 @@ import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.BaseAdapter;
-import android.widget.TextView;
+import android.widget.*;
+
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 
-import edu.upc.eetac.dsa.vmiranda.libros.api.Libros;
+import edu.upc.eetac.dsa.jordiieetac.lib.api.Libros;
 
 /**
  * Created by Jordii on 27/05/2015.
