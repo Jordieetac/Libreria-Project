@@ -16,7 +16,7 @@ import edu.upc.eetac.dsa.vmiranda.libros.api.LibrosAPI;
 
 /**
  * Created by Jordii on 27/05/2015.
- *//
+ */
 public class LibrosDetailActivity extends Activity{
 
     private class FetchStingTask extends AsyncTask<String, Void, Libros> {

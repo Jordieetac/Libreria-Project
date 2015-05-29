@@ -19,6 +19,10 @@ import edu.upc.eetac.dsa.jordieetac.libros.api.Libros;
 import edu.upc.eetac.dsa.jordieetac.libros.api.LibrosAPI;
 import edu.upc.eetac.dsa.jordieetac.libros.api.LibrosCollection;
 
+/**
+ * Created by Jordii on 27/05/2015.
+ */
+
 public class LibrosMainActivity extends ListActivity {
     private class FetchStingsTask extends
             AsyncTask<Void, Void, LibrosCollection> {
